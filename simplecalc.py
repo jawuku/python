@@ -24,7 +24,7 @@ if operator == "+":
 elif operator == "-":
     print('{} - {} = {}'.format(num1, num2, num1-num2))
 
-elif operator == "*":
+elif (operator == "*") or (operator == "x"):
     print('{} * {} = {}'.format(num1, num2, num1*num2))
 
 elif operator == "/":

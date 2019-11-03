@@ -1,5 +1,11 @@
-## Refections made simple
-
+'''
+Refections made simple
+======================
+Adapted from article
+Walker J., Anaesthesia News April 2018 (Issue 369), page 5.
+"Refections made simple", Walker J., Anaesthesia News April 2018 (Issue 369), page 5.
+some new additions added by me
+'''
 import random   
 
 # 1st sentence

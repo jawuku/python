@@ -1,14 +1,13 @@
 '''
 Refections made simple
 ======================
-Adapted from article
-Walker J., Anaesthesia News April 2018 (Issue 369), page 5.
+Adapted from article:
 "Refections made simple", Walker J., Anaesthesia News April 2018 (Issue 369), page 5.
-some new additions added by me
+some new additions added by Jason Awuku
 '''
 import random   
 
-# 1st sentence
+# define sentences in tables
 
 table01 = ["This was an excellent meeting,", "This was a worthwhile use of my time,", "The event was well organised,", "This activity filled a comprehensive remit,", "This was a good conference,", "A creditworthy meeting,", "A fantastic showcase,", "A pleasurable and productive event,", "A very helpful meeting,", "This opportunity was a positive one,", "A useful exercise,", "This conference was valuable,", "This was an important and eye-opening event,", "This was the first time that I have attended such an event,"]
 

@@ -3,8 +3,9 @@ Refections made simple
 ======================
 Adapted from article:
 "Refections made simple", Walker J., Anaesthesia News April 2018 (Issue 369), page 5.
-some new additions added by Jason Awuku
+some new additions by Jason Awuku
 '''
+
 import random   
 
 # define sentences in tables
